@@ -16,11 +16,3 @@ Hello, I'm Neil.<br><br>I’m a recent Computer Science graduate and aspiring Fu
 [![](https://visitcount.itsvg.in/api?id=Potential-Potato&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph.svg">
-</picture>
-
-###
