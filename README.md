@@ -12,11 +12,9 @@ Hello, I'm Neil.<br><br>I’m a recent Computer Science graduate and aspiring Fu
 ![](https://nirzak-streak-stats.vercel.app/?user=Potential-Potato&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Potential-Potato&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Potential-Potato&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph-dark.svg">
