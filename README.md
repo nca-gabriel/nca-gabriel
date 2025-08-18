@@ -51,9 +51,15 @@ Hello, I'm Neil 👋<br><br>🎓 Recent Computer Science graduate and aspiring F
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Potential-Potato&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Potential-Potato&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Potential-Potato&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Potential-Potato&theme=dark&hide_border=true" alt="Streak Stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Potential-Potato&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potential-Potato&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </div>
+</div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Potential-Potato&icon=0&color=1)](https://visitcount.itsvg.in)
