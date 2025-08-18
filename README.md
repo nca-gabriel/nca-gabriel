@@ -31,4 +31,15 @@ Hello, I'm Neil 👋<br><br>🎓 Recent Computer Science graduate and aspiring F
 ---
 [![](https://visitcount.itsvg.in/api?id=Potential-Potato&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/potential-potato/potential-potato/output/pacman-contribution-graph.svg">
+</picture>
+
+###
