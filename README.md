@@ -52,7 +52,8 @@ Hello, I'm Neil 👋<br><br>🎓 Recent Computer Science graduate and aspiring F
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=nca-gabriel&theme=dark&hide_border=true" alt="Streak Stats" />
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=nca-gabriel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nca-gabriel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nca-gabriel&langs_count=10&theme=dark&hide_border=true&layout=compact&v=2" alt="Top Languages" />
+
   </div>
 </div>
 
