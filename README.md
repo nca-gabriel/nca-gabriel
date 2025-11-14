@@ -12,7 +12,11 @@
 ###
 
 # 📌 About Me:
-Hello, I'm Neil 👋<br><br>🎓 Recent Computer Science graduate and aspiring Full Stack Developer, passionate about solving real-world problems through code.  <br>🔭 Currently building full stack applications with **MERN** and **PERN**.  <br>📚 Learning **T3 Stack**, **TypeScript**, and **system design for scalable backends**.  <br>⚡ In my free time I explore new frameworks, work on personal projects, and refine my coding skills.  <br><br>My goal is to grow as a developer by contributing to impactful projects and continuously improving my expertise.<br>
+Hi, I'm Neil 👋
+
+Computer Science graduate with real experience building full stack applications and open-source tools. I work with MERN, PERN, and TypeScript, and I built Atriar, an npm package for API traffic logging fully tested with Jest and Supertest. I focus on scalable backend design, clean architecture, and delivering production-ready features.
+
+I’m currently leveling up in the T3 stack, system design, and advanced React tooling. I spend my time shipping projects, improving workflows, and exploring new ways to build reliable software. My goal is to contribute to impactful products and grow as a full stack engineer.
 
 
 # 💻 Tech Stack:
