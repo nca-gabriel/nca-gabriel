@@ -50,13 +50,6 @@ I’m currently leveling up in the T3 stack, system design, and advanced React t
   </a>
 </div>
 
-# 🌐 Portfolio
-<div align="center">
-  <a href="https://ncagabriel.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 
 
 # 📊 GitHub Stats:
