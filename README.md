@@ -40,15 +40,7 @@ I’m currently leveling up in the T3 stack, system design, and advanced React t
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-# ✨ Connect with Me:
-<div align="center">
-  <a href="https://linkedin.com/in/neilchristiangabriel">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ncagabriel02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+
 
 
 
